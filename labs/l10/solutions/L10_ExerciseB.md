@@ -4,11 +4,11 @@ Creating new clean workflow without my github name but in next screenshot you wi
 
 <img width="2865" height="1794" alt="image" src="https://github.com/user-attachments/assets/54010ae6-9526-4109-bdd8-076dbd988418" />
 
-I am configuring an HTTP Request node to fetch the page content by dynamically appending the Webhook's URL parameter to the Jina.ai reader endpoint.
+I added an HTTP Request node that takes the URL from my Webhook and sends it to Jina.ai to get a clean and readable version of the page.
 
 <img width="2873" height="1793" alt="image" src="https://github.com/user-attachments/assets/a36c7c30-6781-4cc7-a7d0-82b33b002dc8" />
 
-I am setting up a second HTTP Request node to send the Jina.ai content to the Groq API using a strict system prompt to ensure the model returns nothing but the required JSON schema.
+Then I set up another HTTP node to push that text into Groq's API, using a specific prompt to make sure the AI returns the data exactly in the JSON format I need.
 
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/ddb2901d-583c-4247-8cb0-350bb103b83e" />
 
