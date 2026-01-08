@@ -4,7 +4,8 @@ Sorry I unfortuneatly forgot to put my nickname from github in workflow name but
 
 <img width="2876" height="1793" alt="image" src="https://github.com/user-attachments/assets/327aeb56-8f53-48a4-9ed7-b85bd552e491" />
 
-<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/a53d3a9e-d718-4a17-ab4d-485fddc8f284" />
+<img width="2876" height="1793" alt="image" src="https://github.com/user-attachments/assets/745f13f9-90b8-498b-b7c1-0ee49fe3d37a" />
+
 
 <img width="2877" height="1796" alt="image" src="https://github.com/user-attachments/assets/0ad8cd87-7b29-4a5e-803e-8fda8605a53d" />
 
